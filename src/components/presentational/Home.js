@@ -1,5 +1,4 @@
 import React from 'react';
-import { CSSTransitionGroup } from 'react-transition-group'
 import './Home.css';
 
 const Home = () => {
@@ -11,6 +10,6 @@ const Home = () => {
       </section>
     </div>
   )
-}
+};
 
-export default Home
+export default Home;

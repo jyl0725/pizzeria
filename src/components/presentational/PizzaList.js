@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-import './PizzaList.css'
+import './PizzaList.css';
 
 const PizzaList = ({pizzaImage, name, findPizza, id, handleImageClick}) => {
   return(
@@ -14,4 +14,4 @@ const PizzaList = ({pizzaImage, name, findPizza, id, handleImageClick}) => {
   )
 }
 
-export default PizzaList
+export default PizzaList;

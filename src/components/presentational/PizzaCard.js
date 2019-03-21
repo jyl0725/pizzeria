@@ -14,13 +14,12 @@ const PizzaCard = (props) => {
     )
   }
 
-  console.log(props)
 
   return(
     <div>
-    {props.match ? getPizzaInfo() : <h2>Finding Pizza </h2>}
+    {props.match ? getPizzaInfo() : <h2>Finding Pizzas </h2>}
     </div>
   )
-}
+};
 
-export default PizzaCard
+export default PizzaCard;

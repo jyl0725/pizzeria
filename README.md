@@ -25,3 +25,4 @@ I utilized react router dom to provide the outcome of a single page application 
 * **Redux**: If application were to grow, I will manage the state in a global redux store.
 
 * **Testing**: Will add unit testing through enzyme/jest.
+# movies
